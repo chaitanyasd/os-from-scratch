@@ -1,7 +1,7 @@
 # OS-from-scratch
 A long term project to develop a OS from scratch.
 
-<h4> Stage-1 <h4> 
+<h4> Stage-1 </h4> 
 Bootloader from scratch <br>
 Read more about it on my blogpost - https://medium.com/@anunsortedarray/demystifying-bootloaders-writing-one-from-scratch-2a83820b242e
 
